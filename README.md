@@ -39,8 +39,8 @@ Utilizamos o CUHK Face Sketch Database (CUFS), disponível no Kaggle.
 ---
 ## **Estrutura dos Arquivos**
 
-- O arquivo .ipynb é o notebook que deve ser aberto no Google Colab
-- O arquivo .pdf se refere ao Relatório do Projeto
+- O arquivo Unidade_10_Restic.ipynb é o notebook que deve ser aberto no Google Colab
+- O arquivo Relatório_CNN___Previsão.pdf se refere ao Relatório do Projeto
 
 ## Principais Conclusões
   Melhor Desempenho: Imagens em preto e branco apresentaram os melhores resultados entre as abordagens testadas.
