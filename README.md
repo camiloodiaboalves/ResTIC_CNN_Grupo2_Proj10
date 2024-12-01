@@ -27,15 +27,12 @@ Utilizamos o CUHK Face Sketch Database (CUFS), disponível no Kaggle.
 ### **Passo a Passo**
 1. **Acesse o Notebook**:
     - Abra o Google Colab e importe o notebook utilizando o link do repositório ou faça upload manual do arquivo `Unidade_10_Restic.ipynb`.
-
-2. **Carregue os Dados**:
-    - Certifique-se de que o arquivo de dados está disponível no Google Drive ou faça o upload manual. Atualize os caminhos no notebook conforme necessário.
   
-3. **Instale Dependências**:
+2. **Instale Dependências**:
     - Execute a célula que contém o código para instalar as bibliotecas necessárias no ambiente do Colab
   
-4. **Execute o Notebook**:
-    - Siga as células sequencialmente para realizar as análises
+3. **Execute o Notebook**:
+    - Siga as células sequencialmente para realizar as análises.
 ---
 ## **Estrutura dos Arquivos**
 
